@@ -5,3 +5,8 @@ const dob='01/01/2000'
 function sayName(){
     console.log("My name is "+name1);
 }
+
+function newFn()
+{
+    console.log("Hello i am new fn");
+}
